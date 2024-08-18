@@ -35,7 +35,7 @@ This repository contains Power BI dashboards designed for analyzing credit card 
 - Income Group: A bar chart categorizing revenue by different income groups (High, Medium, Low).
 - Education: A bar chart displaying revenue based on customer education levels.
 
- ![Credit Card Customer Report Dashboard](Screenshot 2024-08-18 100445.png)
+ ![Credit Card Customer Report Dashboard](./Screenshot 2024-08-18 100445.png)
 
 ## Filters
 Both dashboards include interactive filters for:
