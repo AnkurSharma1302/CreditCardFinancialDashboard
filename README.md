@@ -18,7 +18,7 @@ This repository contains Power BI dashboards designed for analyzing credit card 
 - Quarterly Revenue and Transaction Count: A combination of bar and line charts representing the revenue and transaction count across different quarters.
 - Category-specific Revenue: A matrix summarizing revenue, transaction amounts, and interest earned based on card categories like Blue, Silver, Gold, and Platinum.
 
-![Credit Card Transaction Report Dashboard](https://myoctocat.com/assets/images/base-octocat.svg)
+![Credit Card Transaction Report Dashboard](https://github.com/AnkurSharma1302/CreditCardFinancialDashboard/blob/main/Screenshot%202024-08-18%20100502.png)
 
 ### 2. Credit Card Customer Report
 
@@ -35,7 +35,8 @@ This repository contains Power BI dashboards designed for analyzing credit card 
 - Income Group: A bar chart categorizing revenue by different income groups (High, Medium, Low).
 - Education: A bar chart displaying revenue based on customer education levels.
 
- ![Credit Card Customer Report Dashboard](https://github.com/AnkurSharma1302/CreditCardFinancialDashboard/blob/main/Screenshot%202024-08-18%20100502.png)
+ ![Credit Card Customer Report Dashboard](https://github.com/AnkurSharma1302/CreditCardFinancialDashboard/blob/main/Screenshot%202024-08-18%20100445.png)
+ 
 
 ## Filters
 Both dashboards include interactive filters for:
